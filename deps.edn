@@ -1,0 +1,8 @@
+{
+ :deps
+ {org.clojure/clojure         {:mvn/version "1.11.1"}
+  io.github.humbleui/humbleui {:git/sha "ab2ea41a97db6390e65357a79e5806af7052a308"}
+  nrepl/nrepl                 {:mvn/version "1.0.0"}
+  hato/hato                   {:mvn/version "0.9.0"}
+  cheshire                    {:mvn/version "5.11.0"}
+  }}
